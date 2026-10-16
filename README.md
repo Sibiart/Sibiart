@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello! I'm Sibi  
-<br>🎓BSc Computer Science Graduate passionate about building practical software and learning new technologies.<br><br>💻 📊 **Business & Data Analyst** | 🐍 **Python Developer** | 🎮 **Unity 2D**<br><br>I enjoy developing web applications, working with data, and turning ideas into practical projects. Gaining hands-on experience in data analytics, web development and problem-solving.<br><br> ✨ Take a look
+<br>🎓BSc Computer Science Graduate passionate about building practical software and learning new technologies.<br><br> 📊 **Business & Data Analyst**  | 💻 **Software Developer** | 🐍 **Python** | 🎮 **Unity** <br><br>I enjoy developing web applications, working with data, and turning ideas into practical projects. Gaining hands-on experience in data analytics, web development and problem-solving.<br><br> ✨ Take a look
 **[My portfolio website →](https://sibi.pythonanywhere.com)**<br><br>🚀 Currently seeking **entry-level opportunities** where I can apply my technical skills, contribute to real-world projects, and grow as a software professional.<br><br>📚 Continuously learning, building projects, and improving my skills.
 
 
