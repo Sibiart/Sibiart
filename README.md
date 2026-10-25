@@ -3,31 +3,31 @@ Hello! I'm Sibi
 <br>🎓BSc Computer Science Graduate passionate about building practical software and learning new technologies.<br><br> 📊 **Business & Data Analyst**  | 💻 **Software Developer** | 🐍 **Python** | 🛢 **SQL** <br><br>I enjoy developing web applications, working with data, and turning ideas into practical projects. Gaining hands-on experience in data analytics, web development and problem-solving.<br><br> ✨ Take a look
 **[My portfolio website →](https://sibi.pythonanywhere.com)**<br><br>🚀 Currently seeking **entry-level opportunities** where I can apply my technical skills, contribute to real-world projects, and grow as a software professional.<br><br>📚 Continuously learning, building projects, and improving my skills.
 
-📑 Table of Contents
+  ## 📑 Table of Contents
 
-- 🌐 Web Development
-  - 🎟️ "Project 1: Event Management System" (https://github.com/Sibiart/Event-Management-System)
-- 📊 Data Analytics
-  - 🌐 "Project 2: Network Packet Log Analysis" (https://github.com/Sibiart)
-  - 🛡️ "Project 3: Fraud Detection & Streaming Analytics" (https://github.com/Sibiart/Fraud-Detection-Streaming-Analytics)
+- 📊 **Data Analytics**
+  - 🛡️ [Project 1: Fraud Detection & Streaming Analytics](#-project-1-fraud-detection--streaming-analytics)
+  - 🌐 [Project 2: Network Packet Log Analysis](#-project-2-network-packet-log-analysis)
+- 🌐 **Web Development**
+  - 🎟️ [Project 3: Event Management System](#-project-3-event-management-system)
 
 ---
 
-🌐 Web Development
+## 📊 Data Analytics
 
-🎟️ "Project 1: Event Management System" (https://github.com/Sibiart/Event-Management-System)
+### 🛡️ [Project 1: Fraud Detection & Streaming Analytics](https://github.com/Sibiart/Fraud-Detection-Streaming-Analytics)
 
-A web-based application for event venue management, bookings, availability, and vendor coordination.
+Analyze transaction data using Python, Pandas, MySQL, rule-based fraud indicators, batch-streaming simulation, and Power BI dashboards.
 
-📊 Data Analytics
+### 🌐 [Project 2: Network Packet Log Analysis](https://github.com/Sibiart/Network_packet_log)
 
-🌐 "Project 2: Network Packet Log Analysis" (https://github.com/Sibiart)
+Analyze network packet logs to explore traffic patterns, identify anomalies, and communicate useful findings.
 
-A data analytics project focused on analyzing network packet logs, traffic patterns, and potential anomalies.
+## 🌐 Web Development
 
-🛡️ "Project 3: Fraud Detection & Streaming Analytics" (https://github.com/Sibiart/Fraud-Detection-Streaming-Analytics)
+### 🎟️ [Project 3: Event Management System](https://github.com/Sibiart/Event-Management_System)
 
-A transaction analytics project using Python, Pandas, MySQL, rule-based fraud detection, batch-streaming simulation, and Power BI dashboards.
+A web application for managing event venues, bookings, availability, and vendor coordination.
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
