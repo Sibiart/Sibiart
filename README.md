@@ -3,29 +3,36 @@ Hello! I'm Sibi
 <br>🎓BSc Computer Science Graduate passionate about building practical software and learning new technologies.<br><br> 📊 **Business & Data Analyst**  | 💻 **Software Developer** | 🐍 **Python** | 🛢 **SQL** <br><br>I enjoy developing web applications, working with data, and turning ideas into practical projects. Gaining hands-on experience in data analytics, web development and problem-solving.<br><br> ✨ Take a look
 **[My portfolio website →](https://sibi.pythonanywhere.com)**<br><br>🚀 Currently seeking **entry-level opportunities** where I can apply my technical skills, contribute to real-world projects, and grow as a software professional.<br><br>📚 Continuously learning, building projects, and improving my skills.
 
-  ## 📑 Table of Contents
 
- - 📊 **Data Analytics**
-  - 🛡️ [Project 1: Fraud Detection & Streaming Analytics](#-project-1-fraud-detection--streaming-analytics)
-  - 🌐 [Project 2: Network Packet Log Analysis](#-project-2-network-packet-log-analysis)
+## 📑 Table of Contents
+
+- 📊 **Data Analytics**
+  - 🛡️ [Project 1: Fraud Detection & Streaming Analytics](#project-1-fraud-detection--streaming-analytics)
+  - 🌐 [Project 2: Network Packet Log Analysis](#project-2-network-packet-log-analysis)
 - 🌐 **Web Development**
-  - 🎟️ [Project 3: Event Management System](#-project-3-event-management-system)
+  - 🎟️ [Project 3: Event Management System](#project-3-event-management-system)
 
 ---
 
 ## 📊 Data Analytics
 
-### 🛡️ [Project 1: Fraud Detection & Streaming Analytics](https://github.com/Sibiart/Fraud-Detection-Streaming-Analytics)
+### Project 1: Fraud Detection & Streaming Analytics
+
+[View Project 1 on GitHub](https://github.com/Sibiart/Fraud-Detection-Streaming-Analytics)
 
 Analyze transaction data using Python, Pandas, MySQL, rule-based fraud indicators, batch-streaming simulation, and Power BI dashboards.
 
-### 🌐 [Project 2: Network Packet Log Analysis](https://github.com/Sibiart/Network_packet_log)
+### Project 2: Network Packet Log Analysis
+
+[View Project 2 on GitHub](https://github.com/Sibiart/Network_packet_log)
 
 Analyze network packet logs to explore traffic patterns, identify anomalies, and communicate useful findings.
 
 ## 🌐 Web Development
 
-### 🎟️ [Project 3: Event Management System](https://github.com/Sibiart/Event-Management-System)
+### Project 3: Event Management System
+
+[View Project 3 on GitHub](https://github.com/Sibiart/Event-Management-System)
 
 A web application for managing event venues, bookings, availability, and vendor coordination.
 
@@ -43,5 +50,3 @@ A web application for managing event venues, bookings, availability, and vendor 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-
-<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
