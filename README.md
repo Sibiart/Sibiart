@@ -5,7 +5,7 @@ Hello! I'm Sibi
 
   ## 📑 Table of Contents
 
-- 📊 **Data Analytics**
+ - 📊 **Data Analytics**
   - 🛡️ [Project 1: Fraud Detection & Streaming Analytics](#-project-1-fraud-detection--streaming-analytics)
   - 🌐 [Project 2: Network Packet Log Analysis](#-project-2-network-packet-log-analysis)
 - 🌐 **Web Development**
@@ -25,7 +25,7 @@ Analyze network packet logs to explore traffic patterns, identify anomalies, and
 
 ## 🌐 Web Development
 
-### 🎟️ [Project 3: Event Management System](https://github.com/Sibiart/Event-Management_System)
+### 🎟️ [Project 3: Event Management System](https://github.com/Sibiart/Event-Management-System)
 
 A web application for managing event venues, bookings, availability, and vendor coordination.
 
